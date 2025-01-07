@@ -31,9 +31,11 @@
 Пример результата выполнения программы:
 
 Ошибки валидации для маршрутов '/user/{user_id}' и '/user/{username}/{age}' :
+
 ![image](https://github.com/user-attachments/assets/eff23b12-b620-4d54-848e-15e22df405d5)
 
 Как должен выглядеть Swagger:
+
 ![image](https://github.com/user-attachments/assets/907c7aef-5bb5-4021-b13f-c3ffc30a651d)
 ![image](https://github.com/user-attachments/assets/7c67e414-f2f6-49eb-9cb7-3ad60dd2abbf)
 
